@@ -1,10 +1,11 @@
-# class excersie 1
+#peer_Modification
 
 a = int(input("enter first number"))
 b = int(input("enter second number"))
-print(a+b)
-print(a-b)
-print(a*b)
-print(a**b)
-print(a/b)
-print(a%b)
+c = int(input("enter third number"))
+print(a+b+c)
+print(a-b-c)
+print(a*b*c)
+print(a**b**c)
+print(a/b/c)
+print(a%b%c)
